@@ -1,9 +1,9 @@
 import "./App.css";
-
+import { Yarnies } from "./Yarnies.jsx";
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
+      <Yarnies />
     </div>
   );
 }
