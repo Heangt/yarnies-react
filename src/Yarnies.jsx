@@ -1,3 +1,5 @@
+import React from "react";
+import "./Yarnies.css";
 export const Yarnies = () => {
   return (
     <div>
